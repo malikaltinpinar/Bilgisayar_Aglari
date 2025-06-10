@@ -19,14 +19,19 @@ Bu proje, ağ üzerinden dosya gönderimini güvenli ve bütünlüğü korunmuş
 
 📁 secure-transfer/
 client.py # Dosya şifreleme ve gönderme işlemleri
+
 server.py # Şifre çözme, doğrulama ve kayıt işlemleri
+
 common.py  # AES, RSA, SHA256 fonksiyonları ve parçalama işlemleri
+
 scapy_test.py # IP başlıklarının manuel olarak işlendiği test
+
 file_to_send # Gönderilecek örnek dosya
+
 received_file # Alınan ve çözülen dosya
+
 server_public.pem  # Sunucunun açık anahtarı
-22360859323_finalrapor.docx  # Proje raporu (TR)
-Bilgisayar Ağları Dönem Projesi.pdf  # Proje yönergesi
+
 🚀 Kullanım
 1. Gereksinimler
 Python 3.x
