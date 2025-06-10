@@ -18,6 +18,7 @@ Bu proje, ağ üzerinden dosya gönderimini güvenli ve bütünlüğü korunmuş
 📂 Proje Yapısı
 
 📁 secure-transfer/
+
 client.py # Dosya şifreleme ve gönderme işlemleri
 
 server.py # Şifre çözme, doğrulama ve kayıt işlemleri
